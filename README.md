@@ -19,9 +19,8 @@
 1. **Open Zip:**
    ```sh
    
-   cd Project\ Interview/
-   cd TodoList
-   cd TodoListApps
+   cd Todolist_Mvvm_swiftui_combine
+ 
 
 2. **Install XcodeGen:**
     ```sh
